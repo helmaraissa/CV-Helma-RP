@@ -1,0 +1,45 @@
+body {
+font-family: Arial, sans-serif;
+margin: 20px;
+}
+img {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+}
+footer {
+    margin-top: 20px;
+    font-size: 14px;
+    text-align: center;
+}
+section {
+    background: white;
+    margin: 20px;
+    padding: 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+header {
+    background: rgb(33, 53, 85);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+html {
+    background:rgb(188, 204, 220);
+}
+h2 {
+    color: rgb(62, 88, 121);
+}
+strong {
+    color: rgb(62, 88, 121);
+}
+a {
+    display: block;
+    text-align: center;
+    background: rgb(154, 166, 178);
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    margin: 20px;
+    border-radius: 5px;
+}
